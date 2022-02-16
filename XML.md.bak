@@ -31,9 +31,9 @@ XML
  >**$ git commit -m "Edit new.xml"**  
  >**$ git push**
  29. Создать файл preferences.xml  
- >**$ touch preferences.xml**
+ >**$ touch preferences.xml
  30. В файл preferences.xml добавить информацию о своих предпочтениях (Любимый фильм, любимый сериал, любимая еда, любимое время года, сторона которую хотели бы посетить) в формате XML.  
- >**$ vim preferences.xml**  
+ >**$ vim preferences.xml  
  >>**<Preferences>** 
  >>**<Favorite_movie>Терминатор</Favorite_movie>** 
  >>**<Favorite_TV_series>МосГаз</Favorite_TV_series>** 
