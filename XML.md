@@ -1,4 +1,4 @@
-XML
+**XML**
  21. Создать внешний репозиторий c названием XML.  
  >**github.com->repositories->press "New"->giving name to repository-> click on "Create repository"**
  22. Клонировать репозиторий XML на локальный компьютер.  
